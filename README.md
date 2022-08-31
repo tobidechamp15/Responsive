@@ -1,6 +1,6 @@
 # Responsiveness
 
-> Responsiveness is used to show different views of a page at different media sizes that is used to project the web page.
+> Responsiveness is used to show different views of a page at different media sizes of the device that is used to project the web page.
 
 
 ## Built With
